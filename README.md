@@ -1,6 +1,11 @@
 # numberapp
 
 A new Flutter application.
+The main purpose of this application are the young growing toddlers who have great grasping power towards the digital world.
+This application serves as to help Toddler learn counting in an easy way.
+I have used a flutter package for audio player.
+I have tried to make the background of the app more colourful and interactive since kids are tend to attract bright colors.
+It is a Jungle theme App.
 
 ## Getting Started
 
